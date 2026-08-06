@@ -166,4 +166,4 @@ Recently completed the **Google Data Analytics Professional Certificate** and cu
 
 🔗 LinkedIn:
 
-🔗 Tableau Public: *(Your Tableau Profile)*
+🔗 Tableau Public: https://public.tableau.com/app/profile/disha.rana4981/vizzes
