@@ -1,10 +1,10 @@
 /*
-====================================================
-Superstore Sales Analysis
-File: 01_data_cleaning.sql
-Purpose:
-Basic data quality checks before analysis.
-====================================================
+===========================================================
+Project : Superstore Sales Analysis
+File    : 01_data_cleaning.sql
+Author  : Disha Rana
+Purpose : Perform initial data quality checks before analysis.
+===========================================================
 */
 
 -- Total records
