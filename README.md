@@ -110,7 +110,7 @@ The dashboard highlights the Top 10 products with the largest losses, helping id
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Images/Dashboard 1.png)
+![Dashboard](Images/Dashboard%201.png)
 ---
 
 ## 🔗 Tableau Dashboard
